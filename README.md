@@ -1,2 +1,34 @@
-# ed397f8d-meal-prep-nutrition-planning
-The fastest way to have 24/7 automated responses without touching a server. No setup fees. No learning curve.  Easy setup: invite → configure → active in under 10 minutes. 24/7 operation — runs on your server or scales to any hosting platform.  ## What's Included  - Meal Prep &amp; Nutrition Planning Analytics And Engagement Report — fully configured a
+# Meal Prep & Nutrition Planning Analytics and Engagement Report Bot
+
+Track member activity, popular channels, peak times, and growth trends. Community data without expensive analytics platforms.
+
+## Setup
+1. Set `TELEGRAM_BOT_TOKEN` in `.env`
+2. `pip install -r requirements.txt`
+3. `python main.py`
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | Yes | Yes |
+| Standard responses | Yes | Yes |
+| Community access | Yes | Yes |
+| Custom commands | - | Yes |
+| Analytics dashboard | - | Yes |
+| Priority processing | - | Yes |
+| API webhooks | - | Yes |
+| Unlimited servers | - | Yes |
+| White-label branding | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa8wP9z9gaU3lmcDWcZL0l)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa8wP9z9gaU3lmcDWcZL0l)
+
